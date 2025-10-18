@@ -28,7 +28,3 @@ h1 {
 .card:hover {
   transform: scale(1.05);
 }
- 
-footer {
-  font-size: 0.9rem;
-}
